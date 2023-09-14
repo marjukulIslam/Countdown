@@ -1,7 +1,7 @@
 // styling
 
 let classList = {
-  cover: `flex flex-col w-2/3 md:flex-row md:w-full lg:w-3/4 max-w-2/3 gap-14 justify-evenly items-center py-20 px-10`,
+  cover: `flex flex-col md:w-2/3 md:flex-row md:w-full lg:w-3/4 max-w-2/3 gap-14 justify-evenly items-center py-20 px-10`,
   imageBox: `flex-1`,
   text: `flex-1 w-full p-8 bg-gray-300 rounded-lg flex flex-col gap-8`,
   image: `rounded-md`,
